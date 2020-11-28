@@ -95,6 +95,9 @@ a{
 	font-size: 50px;
 }
 
+li {
+	list-style: none;
+}
 
 /* Design adjustments using id (1% design remaining) */
 
